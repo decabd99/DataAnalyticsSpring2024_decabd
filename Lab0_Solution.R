@@ -1,4 +1,4 @@
-# Lab O -- Diego de Cabanyes 
+# Lab O -- 
 
 #rm(list = ls()) # Clear Global Environment 
 setwd("/Users/diegodecabanyes/Desktop/MBA/Data Analytics /Lab01")
